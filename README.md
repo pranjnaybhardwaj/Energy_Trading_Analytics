@@ -1,6 +1,6 @@
 # Trading Analyst Energy Forecasting Demo
 
-A complete Python demo project simulating the responsibilities of a **Trading Analyst** in the renewable energy sector. This project combines forecasting, trading simulation, risk assessment, and data engineering to showcase practical knowledge aligned with roles like the one at Flogas Energy.
+A complete Python demo project simulating the responsibilities of a **Trading Analyst** in the renewable energy sector. This project combines forecasting, trading simulation, risk assessment, and data engineering to showcase practical knowledge.
 
 ## 🔧 Features
 
