@@ -1,7 +1,7 @@
 # trading_analyst_demo.py
 """
-A complete demo script showcasing energy demand forecasting, portfolio trading simulation,
-and risk management for a Trading Analyst role in the renewable energy domain.
+A demo project showcasing energy demand forecasting, portfolio trading simulation,
+and risk management  in the renewable energy domain.
 
 Features:
 1. Synthetic data generation for electricity and gas demand.
